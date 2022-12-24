@@ -8,7 +8,7 @@ This is a web based application developed for music related website in india
 *Project Link* - https://wonderful-meadow-06ea78a00.2.azurestaticapps.net
 
 
-*Project Video Demo Link* - 
+*Project Video Demo Link* - https://youtu.be/9WusHGbffSQ
 
 
 ## Features and Functionalities 😃
