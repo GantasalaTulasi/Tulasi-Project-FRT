@@ -1,14 +1,14 @@
-# ✨ Music Max  ✨
+# ✨ Music Band  ✨
 
 This is a web based application developed for music related website in india
 
 ### This web based lifestyle application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-*Project Link* - https://gray-island-0dd970100.2.azurestaticapps.net
+*Project Link* - https://wonderful-meadow-06ea78a00.2.azurestaticapps.net
 
 
-*Project Video Demo Link* - https://youtu.be/QdPej06FzMY
+*Project Video Demo Link* - 
 
 
 ## Features and Functionalities 😃
